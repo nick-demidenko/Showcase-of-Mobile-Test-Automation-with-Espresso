@@ -59,6 +59,9 @@ android {
 }
 
 dependencies {
+  androidTestImplementation("androidx.test.espresso:espresso-intents:3.5.1")
+  testImplementation("androidx.test:testing-junit:1.4.0")
+  androidTestImplementation("androidx.test:core-ktx:1.5.0")
   kotlin()
   compat()
   fragment()
