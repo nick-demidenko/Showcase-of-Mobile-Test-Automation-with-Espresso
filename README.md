@@ -1,5 +1,20 @@
-Rewriting Mobile Testing for [Kotlin-Espresso-sample](https://github.com/pot8os/Kotlin-Espresso-sample) with New Espresso Scripts.
+# Test Automation Showcase. Espresso with Kotlin.
 
-This project builds upon the [Kotlin-Espresso-sample](https://github.com/pot8os/Kotlin-Espresso-sample) codebase, replacing old Espresso scripts with new ones and applying the Page Object Model Pattern.
+## Description   
+This project builds upon the [Kotlin-Espresso-sample](https://github.com/pot8os/Kotlin-Espresso-sample) codebase.  
+Old Espresso scripts were replaced and rewritten and the **Page Object Model** Pattern was applied.
 
-Check the most important [directory](https://github.com/nick-demidenko/Showcase-of-Mobile-Test-Automation-with-Espresso/tree/master/app/src/androidTest/kotlin/net/pot8os/kotlintestsample) in the context of this project with test automation scripts.
+## Purpose of The Project
+To showcase my **Test Automation** skills with **Espresso** and **Kotlin** programming language.
+
+## What Technologies are Used?
+Espresso, Kotlin.
+
+## How to Launch It?
+Cloning the project and running tests should be straightforward and shouldn't cause problems or require any specific setup.  
+If you encounter obstacles reach out to me.
+
+## Key Files and Folders
+[Page Objects](https://github.com/nick-demidenko/Showcase-of-Mobile-Test-Automation-with-Espresso/tree/6056c478f86b27cdf667ae784579c10d360e736b/app/src/androidTest/kotlin/net/pot8os/kotlintestsample/pageObjects)    
+[Tests](https://github.com/nick-demidenko/Showcase-of-Mobile-Test-Automation-with-Espresso/tree/6056c478f86b27cdf667ae784579c10d360e736b/app/src/androidTest/kotlin/net/pot8os/kotlintestsample/tests) 
+
